@@ -27,6 +27,7 @@ Available env variables:
 `ELDFALL_TOKEN_ADDRESS` for general, or use `ELDFALL_TOKEN_ADDRESS_[ChainId]` for network specific settings
 `CHARACTER_NFT_ADDRESS` for general, or use `CHARACTER_NFT_ADDRESS_[ChainId]` for network specific settings
 `PRICE_RESOLVER_ORACLE_ADDRESS` for general, or use `PRICE_RESOLVER_ORACLE_ADDRESS_[ChainId]` for network specific settings
+`CHARACTER_STORE_ADDRESS` for general, or use `CHARACTER_STORE_ADDRESS_[ChainId]` for network specific settings
 
 ## Publish the NPM package
 ```shell
