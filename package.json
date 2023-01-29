@@ -1,0 +1,39 @@
+{
+    "name": "@guildsworn/hardhat-guildsworn",
+    "version": "1.0.0",
+    "description": "Hardhat helper plugin for guildsworn projects",
+    "homepage": "https://www.eldfall.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/guildsworn/hardhat-guildsworn.git"
+    },
+    "bugs": {
+        "url": "https://github.com/guildsworn/hardhat-guildsworn/issues"
+    },
+    "keywords": [
+        "ethereum",
+        "smart-contracts",
+        "eldfall",
+        "guildsworn",
+        "helper",
+        "hardhat",
+        "plugin",
+        "hardhat-plugin"
+    ],
+    "author": "guildsworn",
+    "license": "MIT",
+    "main": "src/index.js",
+    "files": [
+        "src/",
+        "LICENSE",
+        "README.md"
+    ],
+    "scripts": {},
+    "devDependencies": {
+        "dotenv": "^16.0.3",
+        "hardhat": "^2.11.2"
+    },
+    "peerDependencies": {
+        "hardhat": "^2.11.2"
+    }
+}
