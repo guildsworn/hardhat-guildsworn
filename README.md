@@ -30,6 +30,5 @@ Available env variables:
 
 ## Publish the NPM package
 ```shell
-yarn compile
 yarn publish --access public
 ```
