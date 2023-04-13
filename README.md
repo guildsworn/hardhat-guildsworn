@@ -31,5 +31,5 @@ Available env variables:
 
 ## Publish the NPM package
 ```shell
-yarn publish --access public
+yarn publish
 ```

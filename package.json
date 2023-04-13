@@ -1,6 +1,6 @@
 {
     "name": "@guildsworn/hardhat-guildsworn",
-    "version": "1.0.1",
+    "version": "1.0.14",
     "description": "Hardhat helper plugin for guildsworn projects",
     "homepage": "https://www.eldfall.com/",
     "repository": {
